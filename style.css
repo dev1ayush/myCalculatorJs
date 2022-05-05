@@ -59,6 +59,11 @@ tbody{
      
  }
 
+ .equal{
+
+    width: 266px;
+ }
+
  table  tr td button:active{
      background-color: lightgreen;
  }
